@@ -15,7 +15,7 @@ Written Guide:
 6. Press the green run button at the top!
 7. Ingest the saved textures in Remix's Ingestion tab
 
-These were trained exclusively on high quality CC0 content from ambientCG, complying with their license. This makes it an ethical upscaler that you can use without concern :slight_smile:
+These were trained exclusively on high quality CC0 content from ambientCG, complying with their license. This makes it an ethical upscaler that you can use without concern 🙂
 
 The chain will save your textures into separate folders for each one. They're labelled with the original texture name.
 
