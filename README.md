@@ -30,6 +30,4 @@ The chain will save your textures into separate folders for each one. They're la
 
 These models are licensed as CC0. **On a 4090, it takes 1.3 seconds to process a 512x512 texture in total**. This is in contrast to multiple minutes with Nvidia's official models
 
-Alternative [Google Drive link](<https://drive.google.com/drive/folders/1TN4bzbHJe1Sg0frPmH5q8Rd6lhpPGGiv?usp=drive_link>)
-
 ![alt text](https://github.com/Kim2091/PBRify_Upscaler/blob/main/Tutorial.png)
