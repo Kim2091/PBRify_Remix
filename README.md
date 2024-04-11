@@ -1,5 +1,3 @@
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support%20chaiNNer%20-hotpink?logo=kofi&logoColor=white)](https://ko-fi.com/kim20913944)
-
 ### 🚀 Support my work!
 
 Any donations help pay training costs + other living costs that would hinder my work on these models. Any donation helps, even if it's just $1!
