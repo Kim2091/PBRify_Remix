@@ -1,10 +1,11 @@
 ### 🚀 Support my work!
 
+
 Any donations help pay training costs + other living costs that would hinder my work on these models. Any donation helps, even if it's just $1!
 
 (The name won't be Kim on the checkout page, that's okay)
 
-[Ko-Fi](https://ko-fi.com/kim20913944)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
 
 # PBRify_Upscaler
 My custom (ethical) set of AI models to upscale textures and generate PBR maps. Intended for use with RTX Remix
