@@ -26,8 +26,8 @@ Written Guide:
 
 These were trained exclusively on high quality CC0 content from ambientCG, complying with their license. This makes it an ethical upscaler that you can use without concern 🙂
 
-The chain will save your textures into separate folders for each one. They're labelled with the original texture name.
+The chain will save your textures into a single output folder. They're labelled with the original texture name.
 
-These models are licensed as CC0. **On a 4090, it takes 1.3 seconds to process a 512x512 texture in total**. This is in contrast to multiple minutes with Nvidia's official models
+These models are licensed as CC0. **On a 4090, it takes 1.3 seconds to process a 512x512 texture in total**. This is in contrast to multiple minutes with Nvidia's official Remix models
 
 ![alt text](https://github.com/Kim2091/PBRify_Upscaler/blob/main/Tutorial.png)
