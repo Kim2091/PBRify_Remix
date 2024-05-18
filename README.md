@@ -7,7 +7,7 @@ Any donations help pay training costs + other living costs that would hinder my 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
 
-# PBRify_Upscaler
+# PBRify_Remix
 My custom (ethical) set of AI models to upscale textures and generate PBR maps. Intended for use with RTX Remix
 
 This is a complete set, consisting of a pre-made chain for chaiNNer & 3 models. These models do the following:
@@ -16,11 +16,11 @@ This is a complete set, consisting of a pre-made chain for chaiNNer & 3 models. 
 3. Generate Roughness Map
 4. Generate Height Map (Disabled by default)
 
-**[Download](<https://github.com/Kim2091/PBRify_Upscaler/archive/refs/tags/v1.5.1.zip>)**
+**[Download](<https://github.com/Kim2091/PBRify_Remix/archive/refs/tags/v1.5.2.zip>)**
 
 Written Guide for usage with RTX Remix:
 1. Download chaiNNer: https://chainner.app/ and install the dependencies in the top right
-2. Download [the zip file](<https://github.com/Kim2091/PBRify_Upscaler/archive/refs/tags/v1.5.1.zip>) and extract
+2. Download [the zip file](<https://github.com/Kim2091/PBRify_Remix/archive/refs/tags/v1.5.2.zip>) and extract
 3. Open the .chn file in chaiNNer
 4. Set an input and output directory for the textures
 5. Load the model files by following the notes in the chain (refer to the image for more details)
@@ -33,4 +33,4 @@ The chain will save your textures into a single output folder. They're labelled 
 
 These models are licensed as CC0. **On a 4090, it takes only 1.3 seconds to process a 512x512 texture**.
 
-https://github.com/Kim2091/PBRify_Upscaler/raw/main/Tutorial.png
+https://github.com/Kim2091/PBRify_Remix/raw/main/Tutorial.png
