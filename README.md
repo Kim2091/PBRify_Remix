@@ -33,4 +33,4 @@ The chain will save your textures into a single output folder. They're labelled 
 
 These models are licensed as CC0. **On a 4090, it takes only 1.3 seconds to process a 512x512 texture**.
 
-https://github.com/Kim2091/PBRify_Remix/raw/main/Tutorial.png
+![alt text](https://github.com/Kim2091/PBRify_Upscaler/blob/main/Tutorial.png)
