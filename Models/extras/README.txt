@@ -8,6 +8,8 @@ Old Models
 
 4x-PBRify_UpscalerSPANV3.pth - The second release of my PBRify SPAN upscaler. This one improved on V2 a LOT with additional detail, deblurring, and colors, but is also oversharpened and unbalanced on many textures
 
+4x-PBRify_UpscalerSPANV3.pth - The third release of my PBRify SPAN upscaler. This one is an interpolation of V3 and a beta V3.5. It's a huge improvement from V4, but was rendered outdated by 4x-PBRify_UpscalerSIR-M_V2
+
 1x-PBRify_Normal.pth - My initial version of the normal map models
 
 1x-PBRify_NormalV2.pth - My short lived second version. This was interpolated with V1 to make V3, since it provides a great balance.
