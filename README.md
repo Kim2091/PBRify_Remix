@@ -28,10 +28,12 @@ This is a complete set, consisting of a pre-made chain for chaiNNer & 3 models. 
 6. Press the green run button at the top!
 7. Ingest the saved textures in Remix's Ingestion tab
 
-The chain will save your textures into a single output folder. They're labelled with the original texture name.
+### Extra info:
+- You can use the upscaler individually by disabling the Load Model nodes for Roughness and Normal maps
+  - The upscaling model is trained to remove noise, DXT1 compression, dithering, and oversharpening/halos
+- The chain will save your textures into a single output folder. They're labelled with the original texture name.
+- These were trained exclusively on high quality CC0 content from ambientCG, complying with their license. This makes it an ethical upscaler that you can use without concern :slight_smile:
+- These models are licensed as CC0.
 
-These were trained exclusively on high quality CC0 content from ambientCG, complying with their license. This makes it an ethical upscaler that you can use without concern :slight_smile:
-
-These models are licensed as CC0.
 
 ![alt text](https://github.com/Kim2091/PBRify_Upscaler/blob/main/Tutorial.png)
