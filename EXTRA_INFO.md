@@ -3,7 +3,9 @@
   - DAT2 for the upscaler, and SPAN for the PBR generation
 
 The training process was the following:
+
 Upscaler:
+
 - Gather textures
 - Sort and separate
 - Tile textures
