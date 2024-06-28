@@ -24,6 +24,8 @@ Textures were sourced from ambientCG and PolyHaven. To help support them and als
 ### Height Maps
 The height map generator is disabled by default due to the current lack of a "delighting" pipeline within PBRify. 
 
+On textures with little to no baked lighting, the generated height maps are generally accurate and do a good job.
+
 ### Delighting
 The goal of a delighting pipeline is to remove baked lighting from textures. This lighting is what causes the majority of issues with PBR and height map generation. 
 
