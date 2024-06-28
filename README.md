@@ -1,5 +1,5 @@
 # PBRify_Remix
-My custom (ethical) set of AI models to upscale textures and generate PBR maps. Intended for use with RTX Remix
+My custom (ethical) set of AI models to upscale textures and generate PBR maps from diffuse or albedo texture maps. Intended for use with RTX Remix
 
 ## 🚀 Support my work!
 
