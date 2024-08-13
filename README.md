@@ -28,6 +28,11 @@ This is a complete set, consisting of a pre-made chain for chaiNNer & 3 models. 
 6. Press the green run button at the top!
 7. Ingest the saved textures in Remix's Ingestion tab
 
+
+### ComfyUI
+You can also use PBRify in ComfyUI thanks to Nvidia! They have an implementation of it in their official repository here: <https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix>
+
+
 ### Extra info:
 - You can use the upscaler without generating PBR by disabling the Load Model nodes for Roughness and Normal maps (the switch in the bottom left of each node)
   - The upscaling model is trained to remove noise, DXT1 compression, dithering, and oversharpening/halos
