@@ -32,6 +32,8 @@ This is a complete set, consisting of a pre-made chain for chaiNNer & 3 models. 
 ### ComfyUI
 You can also use PBRify in ComfyUI thanks to Nvidia! They have an implementation of it in their official repository here: <https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix>
 
+This implementation allows you to use PBRify directly with the toolkit. You can select textures in the toolkit to process, send them to ComfyUI to be processed with PBRify, then sent back to be added 🙂
+
 
 ### Extra info:
 - You can use the upscaler without generating PBR by disabling the Load Model nodes for Roughness and Normal maps (the switch in the bottom left of each node)
