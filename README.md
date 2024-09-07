@@ -48,6 +48,7 @@ This implementation allows you to use PBRify directly with the toolkit. You can 
 6. Select the objects with textures you want to upscale
 7. Launch ComfyUI
 8. Load the workflow using the `rtx_remix_pbrify_workflow.png` file located in `ComfyUI\custom_nodes\ComfyUI-RTX-Remix\workflows` and hit "Queue Prompt"
+  - If you want alpha layer support for textures, you can use and load [this workflow instead](https://github.com/Kim2091/ComfyUI-RTX-Remix/raw/main/workflows/rtx_remix_pbrify_remix_workflow.png)
 9. It will now upscale and generate PBR textures. Simply switch back to the toolkit to observe the improvement
 
 Tips:
