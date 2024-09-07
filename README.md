@@ -44,7 +44,7 @@ This implementation allows you to use PBRify directly with the toolkit. You can 
 2. Open the zip file
 3. Find the Models folder
 4. Extract the contents of the folder to `ComfyUI\models\upscale_models`
-5. Open RTX Remix
+5. Open the RTX Remix Toolkit
 6. Open your project
 7. Select the objects with textures you want to upscale
 8. Launch ComfyUI
