@@ -40,16 +40,15 @@ This implementation allows you to use PBRify directly with the toolkit. You can 
 
 - These steps assume you've already installed [ComfyUI](https://github.com/comfyanonymous/ComfyUI), the [ComfyUI-RTX-Remix](https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix) extensions, and the [RTX Remix toolkit](https://www.nvidia.com/en-us/geforce/rtx-remix/) with an existing project file. Look in the [RTX Remix Discord server](https://discord.gg/rtxremix) for further details.
 
-1. Download PBRify's latest package from [here](https://github.com/Kim2091/PBRify_Remix/releases)
+1. Download PBRify's latest ComfyUI compatible package from [here](https://github.com/Kim2091/PBRify_Remix/releases/download/ComfyUI_Compat_1.7.0/PBRify_Remix_1.7.0_ComfyUI_ONLY.zip)
 2. Open the zip file
-3. Find the Models folder
-4. Extract the contents of the folder to `ComfyUI\models\upscale_models`
-5. Open the RTX Remix Toolkit
-6. Open your project
-7. Select the objects with textures you want to upscale
-8. Launch ComfyUI
-9. Load the workflow using the `rtx_remix_pbrify_workflow.png` file located in `ComfyUI\custom_nodes\ComfyUI-RTX-Remix\workflows` and hit "Queue Prompt"
-10. It will now upscale and generate PBR textures. Simply switch back to the toolkit to observe the improvement
+3. Extract the contents of the folder to `ComfyUI\models\upscale_models`
+4. Open the RTX Remix Toolkit
+5. Open your project
+6. Select the objects with textures you want to upscale
+7. Launch ComfyUI
+8. Load the workflow using the `rtx_remix_pbrify_workflow.png` file located in `ComfyUI\custom_nodes\ComfyUI-RTX-Remix\workflows` and hit "Queue Prompt"
+9. It will now upscale and generate PBR textures. Simply switch back to the toolkit to observe the improvement
 
 Tips:
 - The default displacement value is far too strong. Set it per texture to 0.1 or even less, such as 0.05
