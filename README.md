@@ -34,9 +34,7 @@ You can also use PBRify in ComfyUI thanks to Nvidia! They have an implementation
 
 This implementation allows you to use PBRify directly with the toolkit. You can select textures in the toolkit to process, send them to ComfyUI to be processed with PBRify, then sent back to be added 🙂
 
-<details>
-
-<summary>Steps:</summary>
+Steps:
 
 - These steps assume you've already installed [ComfyUI](https://github.com/comfyanonymous/ComfyUI), the [ComfyUI-RTX-Remix](https://github.com/NVIDIAGameWorks/ComfyUI-RTX-Remix) extensions, and the [RTX Remix toolkit](https://www.nvidia.com/en-us/geforce/rtx-remix/) with an existing project file. Look in the [RTX Remix Discord server](https://discord.gg/rtxremix) for further details.
 
@@ -52,7 +50,6 @@ This implementation allows you to use PBRify directly with the toolkit. You can 
 
 Tips:
 - The default displacement value is far too strong. Set it per texture to 0.1 or even less, such as 0.05
-</details>
 
 ## Tips & Additional Info:
 - You can use the upscaler without generating PBR by disabling the Load Model nodes for Roughness and Normal maps (the switch in the bottom left of each node)
