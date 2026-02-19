@@ -45,7 +45,7 @@ Steps:
 5. Open your project
 6. Select the objects with textures you want to upscale
 7. Launch ComfyUI
-8. Load [this workflow](https://github.com/Kim2091/ComfyUI-RTX-Remix/raw/main/workflows/rtx_remix_pbrify_remix_workflow.png)
+8. Load [this workflow](https://raw.githubusercontent.com/NVIDIAGameWorks/ComfyUI-RTX-Remix/refs/heads/main/workflows/restapi_pbrify.json)
 9. It will now upscale and generate PBR textures. Simply switch back to the toolkit to observe the improvement
 
 Tips:
